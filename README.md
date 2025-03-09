@@ -1,4 +1,4 @@
-Create an expected goals model using pytorch<br>
+<h1>Create an expected goals model using pytorch</h1><br>
 I previously made an expected goals model using XGBoost and BayesianOptimization but since BayesianOptimization has no longer made an update I decided to scrap the previous model and create a new one using pytorch.<br>
 <br>
 <br>
